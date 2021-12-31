@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "534d8fcb-eb74-4485-8f35-319bf76d7fbd": {
+      "ProjectGuid": "534d8fcb-eb74-4485-8f35-319bf76d7fbd",
+      "DisplayName": "HttpToEventHub",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
